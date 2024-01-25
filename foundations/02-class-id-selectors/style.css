@@ -1,0 +1,22 @@
+/* style.css */
+
+.Number, .CoolerNumber{
+    color: black;
+    background-color: pink;
+}
+
+.CoolerNumber{
+    font-size: 18px;
+}
+
+#Number2{
+    color: blue;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+#Number4{
+    background-color: greenyellow;
+    font-weight: bolder;
+    font-size: 18px;
+}
